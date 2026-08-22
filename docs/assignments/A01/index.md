@@ -13,7 +13,7 @@ a. The primary function of nail clippers is to increase the force at a concentra
 b. The nail clippers use a lever to transmit the force and use the equation for torque with force and distance; F_in x D_in = F_out x D_out. The assumption is that the lever arm and pivot point are rigid then there’s no loss of energy to bending compared to the spring-like blade piece.
 
 c. The nail clippers are composed of three parts; the lever arm, the pin, and the blades. The nail clippers can be taken apart by pinching the blades and unhooking the pin from the arm, and the pin falls out from the blades. 
-<img width="1512" height="2016" alt="IMG_0670" src="https://github.com/user-attachments/assets/79275ebc-b941-458a-b93b-7f35b91335d2" />
+<img width="50%" height="2016" alt="IMG_0670" src="https://github.com/user-attachments/assets/79275ebc-b941-458a-b93b-7f35b91335d2" />
 <img width="1512" height="2016" alt="IMG_0673" src="https://github.com/user-attachments/assets/509537fa-9ff1-4310-8057-830ee7036663" />
 The lever is a long arm that is bent near one end and has a hole on the end closer to the bend. The hole is to allow the pin to go through and hook onto it. The bend in the arm is what pushes the blades together when the pin is fixed in place.
 <img width="1512" height="2016" alt="IMG_0672" src="https://github.com/user-attachments/assets/85bf9a94-7981-45a6-8b74-3ce403e47eb7" />
