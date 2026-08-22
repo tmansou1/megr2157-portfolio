@@ -21,7 +21,7 @@ The lever is a long arm that is bent near one end and has a hole on the end clos
 
 <img width="50%" height="2016" alt="IMG_0672" src="https://github.com/user-attachments/assets/85bf9a94-7981-45a6-8b74-3ce403e47eb7" />
 
-The pin is designed with a hook on one end for the arm, and the other end has a wide head to stop it from falling out.
+The pin is designed with a hook on one end for the arm, and the other end has a wide head to stop it from falling out of the back of the blade piece.
 
 <img width="50%" height="2016" alt="IMG_0675 (1)" src="https://github.com/user-attachments/assets/9ffd1cbe-127b-4d0b-90f3-9507ec0945ff" />
 
