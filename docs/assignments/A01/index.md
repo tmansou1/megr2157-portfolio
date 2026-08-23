@@ -40,7 +40,7 @@ The pin is designed with a hook on one end for the arm, and the other end has a 
 
 The blades are fastened together at one end, on the other end there’s a hole through both blades for the pin, and it has a little gap between the blades. The blade piece acts like a spring, naturally resting slightly open, so when it’s compressed and cuts a nail they come right back up.
 
-d. Other tools that can be used for the same thing could be nail scissors or a nail file.
+d. Other tools that can be used for the same purpose, are nail scissors or a nail file.
 In the patent I chose there is a divot in the lever arm, I believe they added it for ease of use. The divot allows the user to pinch at an easier angle and adds a comfier grip.
 
 
