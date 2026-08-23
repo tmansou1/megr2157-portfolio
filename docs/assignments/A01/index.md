@@ -4,6 +4,19 @@
 
 
 ## Analyze
+Analyzing Portfolios
+
+Portfolio 1 - https://nhoong.github.io/index.html
+
+The first portfolio I found was Nathan Hoong’s on Github. His portfolio consists of 7 Projects all located on the home page. It is easy to find any of his projects just by scrolling down. Most of his projects are just a small showcase of what he did, showing the end result and some CAD images. The only project with proper documentation was his Senior Capstone Project. This one has a link to view his entire report which has enough information to reproduce it, like CAD drawings and his design process. Only the Senior Project shows his full decision making and reasoning. I believe the tone of his portfolio and resume was professional because he used proper language and grammar.
+
+
+Portfolio 2 - https://uncc.instructure.com/eportfolios/4662/home 
+
+The second portfolio I chose was Jonathon Titolo’s from canvas. His portfolio has all 10 assignments linked straight from the homepage, so his portfolio is quite navigable. Jonathon’s designs clearly reflect the amount of time put into his projects. He also includes all the math behind his solutions as well as his CAD designs able to be downloaded. His portfolio includes his design choices and thought process; “To simplify both the calculations and CAD modeling, I chose to use rectangular trusses.” Jonathan used language that was able to be understood easily and also professional enough to be used for a hiring manager.
+
+
+
 Product Analysis
 
 Nail clippers. Patent US20070067995A1 Hector Alfaro (this specific one)
