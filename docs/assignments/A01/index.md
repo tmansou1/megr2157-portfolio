@@ -4,7 +4,7 @@
 
 
 ## Analyze
-Analyzing Portfolios
+**Analyzing Portfolios**
 
 Portfolio 1 - https://nhoong.github.io/index.html
 
@@ -17,7 +17,7 @@ The second portfolio I chose was Jonathon Titolo’s from canvas. His portfolio 
 
 
 
-Product Analysis
+**Product Analysis**
 
 Nail clippers. Patent US20070067995A1 Hector Alfaro (this specific one)
 
