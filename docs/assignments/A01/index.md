@@ -46,6 +46,16 @@ In the patent I chose there is a divot in the lever arm, I believe they added it
 
 ## Decide
 
+1. Homepage identity:
+This portfolio’s main objective is to show the contents and understanding for MEGR 2157, and ensure that it is organized to give a clear and efficient way to access my work. The intended readers are primarily professors and TA’s grading my assignment and future students looking at my portfolio as a reference. The homepage should focus on assignments and its content, rather than focusing on the creator. This allows viewers to quickly understand what the portfolio contains and how it’s organized.
+
+2. One Intentional Customization:
+My customization was to add titles to each one of the assignments in my portfolio. The titles allow the viewer to easily see what each assignment is before visiting the link. The initial template left the assignments blank just labeled A1, A2 etc. making it hard to know what each assignment is.
+
+3. Your Documentation Standard:
+For this portfolio I am committing myself a clear and professional tone when explaining decisions and reasonings. I will also commit to providing enough information to understand my content easily.
+
 
 ## Communicate
 
+Completed in the "About me" section 
