@@ -7,7 +7,8 @@ I don't yet know which corner of the field I want to specialize in: design, manu
 
 What I do know is the kind of engineer I want to become, one who can explain the reasoning behind a decision as clearly as the decision itself, and who treats a design choice as defensible because it's been tested and reasoned through, not just because it happens to work.
 
-"What does it mean to defend an engineering decision : and do you currently know how to do it?"
+**"What does it mean to defend an engineering decision : and do you currently know how to do it?"**
+
 I believe defending an engineering decision means being able to say why I chose that decision over another, and being able to show reasoning and support my claims with evidence. I think I can defend an engineering decision depending on how proficient I am at what I'm working on, but theoretically yes.
 
 -I spend roughly 5 hours on this assignment and many more procrastinating
