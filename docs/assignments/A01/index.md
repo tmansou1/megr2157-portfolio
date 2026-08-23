@@ -21,7 +21,7 @@ The second portfolio I chose was Jonathon Titolo’s from canvas. His portfolio 
 
 Nail clippers. Patent US20070067995A1 Hector Alfaro (this specific one)
 
-a. The primary function of nail clippers is to increase the force at a concentrated area with a long arm, and is used to cut through fingernails.
+a. The initial design is just a simple machine, a lever. The primary function of nail clippers is to increase the force at a concentrated area with a long arm, and is used to cut through fingernails.
 
 b. The nail clippers use a lever to transmit the force and use the equation for torque with force and distance; F_in x D_in = F_out x D_out. The assumption is that the lever arm and pivot point are rigid then there’s no loss of energy to bending compared to the spring-like blade piece.
 
