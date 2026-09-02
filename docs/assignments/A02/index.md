@@ -3,7 +3,8 @@
 ## Objective
 The goal is to determine the minimum weight with safety factors of 3.5 and 4 for the members and pins respectively. Point A is a pin joint and point B is a roller joint. The two forces P, applied at points C and D, were chosen to be 20kN each. The closest steel to A500 that I could find in Solidworks was A36 steel which has a yield strength of 250MPa. 
 
-<img width="416" height="451" alt="Screenshot 2026-09-02 150059" src="https://github.com/user-attachments/assets/b07acd6e-a7ae-414a-b025-094dc7da65b6" />
+<img width="420" height="271" alt="truss structure" src="https://github.com/user-attachments/assets/e457afca-1a6b-42f3-bab6-51493b603f62" />
+
 
 
 ## Analyze
