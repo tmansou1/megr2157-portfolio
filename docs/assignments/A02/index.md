@@ -3,6 +3,8 @@
 ## Objective
 The goal is to determine the minimum weight with safety factors of 3.5 and 4 for the members and pins respectively. Point A is a pin joint and point B is a roller joint. The two forces P, applied at points C and D, were chosen to be 20kN each. The closest steel to A500 that I could find in Solidworks was A36 steel which has a yield strength of 250MPa. 
 
+<img width="416" height="451" alt="Screenshot 2026-09-02 150059" src="https://github.com/user-attachments/assets/b07acd6e-a7ae-414a-b025-094dc7da65b6" />
+
 
 ## Analyze
 **Truss geometry**
@@ -14,9 +16,10 @@ The image below shows the truss design including dimensions and angles. The exte
 
 Below are all the FBDs for each pin, solving for the internal forces.
 
+<img width="50%" height="2680" alt="IMG_0701" src="https://github.com/user-attachments/assets/7fb265bb-17f1-4175-b00d-8b35a2f8646e" />
+
 Solving the FBD for pin F was just to confirm that the other internal forces are correct.
 
-<img width="50%" height="2680" alt="IMG_0701" src="https://github.com/user-attachments/assets/7fb265bb-17f1-4175-b00d-8b35a2f8646e" />
 <img width="50%" height="2393" alt="IMG_0702" src="https://github.com/user-attachments/assets/e7f4f47c-3b51-43d4-a52c-f6bd9ef57b16" />
 
 I then used the largest internal force and a safety factor of 3.5 to calculate the required cross sectional area for the members. I decided to have the cross sectional area be a square for simplicity. Using a given density for A36 steel and the newly found area, I added up the whole volume and multiplied by the density to find the weight of the whole truss(not including pins).
