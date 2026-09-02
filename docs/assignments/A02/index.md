@@ -53,12 +53,6 @@ I chose a simple geometry of three triangles because is it the minimum stable ge
 
 I spent roughly 7 hours on this assignment.
 
-Solidworks download
-
-With Pins-
-
-Without Pins-
-
 Sources
 
 https://www.metalsupermarkets.com/grade-guide-a36-steel 
