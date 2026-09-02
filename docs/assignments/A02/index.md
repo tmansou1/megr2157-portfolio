@@ -30,6 +30,8 @@ I then used the largest internal force and a safety factor of 3.5 to calculate t
 For the pins I used the given density, shear yield strength, and a safety factor of 4 to determine the required cross sectional area. For the length of the pins I doubled the width of the truss. After calculating the weight of the pins and adding them to the weight of the truss I got 57.48N and my CAD model with appropriate mass settings gave me a weight of 46.46N. I believe the main reason for the difference in weights is due to the members and pins overlapping at each joint.
 
 <img width="50%" height="2831" alt="IMG_0705" src="https://github.com/user-attachments/assets/4aa4a5fa-2dee-4fe7-bd01-a0b9908f14de" />
+<img width="50%" height="965" alt="Screenshot 2026-09-01 182104" src="https://github.com/user-attachments/assets/97b63b70-5562-403c-b7e9-df189042ee31" />
+
 
 # Likelihood of Failure Modes in Truss Components
 **Truss members**
