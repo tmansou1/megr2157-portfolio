@@ -27,7 +27,7 @@ I then used the largest internal force and a safety factor of 3.5 to calculate t
 
 <img width="50%" height="1815" alt="IMG_0703" src="https://github.com/user-attachments/assets/6421767b-e0ba-46fb-9b9c-466e4b7a47fd" />
 
-For the pins I used the given density, shear yield strength, and a safety factor of 4 to determine the required cross sectional area. For the length of the pins I doubled the width of the truss. After calculating the weight of the pins and adding them to the weight of the truss I got 57.48N and my CAD model with appropriate mass settings gave me a weight of 46.46N. I believe the main reason for the difference in weights is due to the members and pins overlapping at each joint.
+For the pins I used the given density, shear yield strength, and a safety factor of 4 to determine the required cross sectional area. For the length of the pins I doubled the width of the truss. After calculating the weight of the pins and adding them to the weight of the truss I got 57.48N and my CAD model with appropriate mass settings gave me a weight of 46.46N. I believe the main reason for the difference in weights is due to the members and pins overlapping at each joint, while another reason could be rounding errors.
 
 <img width="50%" height="2831" alt="IMG_0705" src="https://github.com/user-attachments/assets/4aa4a5fa-2dee-4fe7-bd01-a0b9908f14de" />
 <img width="50%" height="965" alt="Screenshot 2026-09-01 182104" src="https://github.com/user-attachments/assets/97b63b70-5562-403c-b7e9-df189042ee31" />
@@ -47,7 +47,11 @@ The pins will likely fail due to direct shear, because the load is applied direc
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
+I chose a simple geometry of three triangles because is it the minimum stable geometry. A planar truss is only statically determinate when the number of members satisfies m = 2n - 3 where m is the number of members and n is the number of joints, I have 5 pins and 7 members. Adding extra members could add unnecessary weight and also make the calculations harder.
+
 ## Communicate
+
+I spent roughly 7 hours on this assignment.
 
 Sources
 
