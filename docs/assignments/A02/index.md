@@ -33,7 +33,7 @@ For the pins I used the given density, shear yield strength, and a safety factor
 <img width="50%" height="965" alt="Screenshot 2026-09-01 182104" src="https://github.com/user-attachments/assets/97b63b70-5562-403c-b7e9-df189042ee31" />
 
 
-### Likelihood of Failure Modes in Truss Components
+### Likelihood of Failure Modes in Truss Components (MEGR 2157)
 **Truss members**
 
 Member CD is a zero force member and therefore cannot fail unless the applied forces change. Members BC, AF, and CF are all in compression. The expected failure mode for these members is buckling, because they are long and skinny compared to short and thick. Members BF, AD, and DF are all in tension. The expected failure mode for these members is yielding, because the material they’re made of is ductile and stretches some before fracturing. The material, A36 steel, is ductile because it can stretch 20% before breaking, compared to a brittle material like ceramic that could only stretch 0.1%. A possible solution to these problems could be using a stronger metal with a relatively same density, for example titanium.
