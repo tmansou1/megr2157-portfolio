@@ -6,6 +6,7 @@ The goal is to determine the minimum weight with safety factors of 3.5 and 4 for
 
 ## Analyze
 **Truss geometry**
+
 I chose my design because adding point F in between points A and B allows me to create a simple truss with three triangles all connected. With 5 points, 7 members are needed to be exactly triangulated.
 The image below shows the truss design including dimensions and angles. The external forces A_y and B_y were solved for.
 
@@ -28,8 +29,11 @@ For the pins I used the given density, shear yield strength, and a safety factor
 
 # Likelihood of Failure Modes in Truss Components
 **Truss members**
+
 Member CD is a zero force member and therefore cannot fail unless the applied forces change. Members BC, AF, and CF are all in compression. The expected failure mode for these members is buckling, because they are long and skinny compared to short and thick. Members BF, AD, and DF are all in tension. The expected failure mode for these members is yielding, because the material they’re made of is ductile and stretches some before fracturing. The material, A36 steel, is ductile because it can stretch 20% before breaking, compared to a brittle material like ceramic that could only stretch 0.1%. A possible solution to these problems could be using a stronger metal with a relatively same density, for example titanium.
+
 **Pin connections**
+
 The pins will likely fail due to direct shear, because the load is applied directly perpendicular to the length of the pins. Hardened tool steel has a high yield shear strength from its hardening but it also decreases its toughness, this can cause a sudden snap or shear fracture instead of slow bending. A solution to this failure would be to make the pin double-shear instead of single-shear to spread the force.
 
 
@@ -40,5 +44,7 @@ _Which geometry did you select, and why? This is your first open design choice i
 ## Communicate
 
 Sources
+
 https://www.metalsupermarkets.com/grade-guide-a36-steel 
+
 https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toughness-tool-steel 
