@@ -1,6 +1,25 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
+
+-Design a lightweight planar truss using A500 steel or an alternative material.
+
+-Create free body diagrams (FBDs) for joints and critical pins.
+
+-Calculate the required cross-sectional area of truss elements with a safety factor.
+
+-Determine pin sizes based on shear forces with a safety factor.
+
+-Solve equations symbolically and numerically for both truss and pin design.
+
+-Estimate the total weight of the truss and pins.
+
+-Create a CAD model with accurate dimensions and connections.
+
+-Compare CAD weight predictions with hand calculations.
+
+-Document key engineering lessons learned from the process.
+
 The goal is to determine the minimum weight with safety factors of 3.5 and 4 for the members and pins respectively. Point A is a pin joint and point B is a roller joint. The two forces P, applied at points C and D, were chosen to be 20kN each. The closest steel to A500 that I could find in Solidworks was A36 steel which has a yield strength of 250MPa. 
 
 <img width="420" height="271" alt="truss structure" src="https://github.com/user-attachments/assets/e457afca-1a6b-42f3-bab6-51493b603f62" />
@@ -52,6 +71,8 @@ I chose a simple geometry of three triangles because is it the minimum stable ge
 ## Communicate
 
 I spent roughly 7 hours on this assignment.
+
+(CAD files in Canvas)
 
 Sources
 
