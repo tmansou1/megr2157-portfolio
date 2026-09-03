@@ -2,7 +2,7 @@
 
 ## Objective
 
--Design a lightweight planar truss using A500 steel or an alternative material.\
+-Design a lightweight planar truss using A500 steel or an alternative material.(A36 steel)\
 -Create free body diagrams (FBDs) for joints and critical pins.\
 -Calculate the required cross-sectional area of truss elements with a safety factor.\
 -Determine pin sizes based on shear forces with a safety factor.\
