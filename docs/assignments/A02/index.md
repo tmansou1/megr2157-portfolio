@@ -62,12 +62,16 @@ I chose a simple geometry of three triangles because is it the minimum stable ge
 
 ## Communicate
 
-I spent roughly 7 hours on this assignment.
+**Engineering lesson learned**
 
-(CAD files in Canvas)
+I learned how to design a simple truss while using safety factors to determine appropriate sizes for the cross sectional area of the truss and the pins. I also learned how different failure modes can affect a truss, and why.
+
+I spent roughly 7 hours on this assignment.
 
 Sources
 
 https://www.metalsupermarkets.com/grade-guide-a36-steel 
 
 https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toughness-tool-steel 
+
+(CAD files in Canvas)
