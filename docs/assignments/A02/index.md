@@ -82,4 +82,4 @@ https://www.metalsupermarkets.com/grade-guide-a36-steel
 
 https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toughness-tool-steel 
 
-<a href="Truss_with_Pins.SLDPRT" download>Download CAD file</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/Truss_with_Pins.SLDPRT" download>Download CAD file</a>
