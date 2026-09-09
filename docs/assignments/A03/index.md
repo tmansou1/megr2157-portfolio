@@ -48,4 +48,6 @@ One of the only mistake I made was having the diameter of the bar as 1in instead
 
 -This assignment took about 4 hours.
 
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A3_Bar.SLDPRT" download>Download CAD file</a>
+
 
