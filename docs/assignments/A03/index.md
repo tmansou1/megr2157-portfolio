@@ -44,7 +44,7 @@ I changed the max deflection, cross sectional area, and force applied to test wh
 
 <img width="50%" height="1068" alt="IMG_0733" src="https://github.com/user-attachments/assets/d95b5f1b-1c59-4efc-bc1b-d0d6141cbc22" />
 
-One of the only mistake I made was having the diameter of the bar as 1in instead of 0.5in, having 1in made the length way too long and unproportional to fit in a nice screenshot.
+One of the only mistakes I made was having the diameter of the bar as 1in instead of 0.5in, having 1in made the length way too long and unproportional to fit in a nice screenshot.
 
 -This assignment took about 4 hours.
 
