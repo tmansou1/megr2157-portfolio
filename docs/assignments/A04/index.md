@@ -9,10 +9,10 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 ## Feature 1
 
 I used 60MPa as the yield strength for PLA from a range of 30-60MPa. To solve for the moment created by force P, I used the dimensions of the motor and used the 12mm long flat part of the shaft as my length, because the rest of the motor will be inside/behind the mount. Rearranging the equations to solve for height(thickness), I got 9.86mm from the deflection equation and 5.19mm from the stress equation. Because we want the safer option when designing, I used the 9.86mm thickness in my design.
+
 Shown below are my calculations for both feature 1 and feature 2, because they use the same equations and many of the same variables.
 
 <img width="4283" height="4268" alt="IMG_0760" src="https://github.com/user-attachments/assets/9d753bbc-5635-4abe-8241-1ba2d52a707f" />
-
 
 ## Feature 2
 
@@ -33,7 +33,6 @@ FBDs
 
 I started my design with the flat plate of feature 1, then added circular cuts and holes to fit the motor into place, next I extruded feature 2 and added the holes for the bolts into the side, then finally I added a 1mm fillet on the interior edge to minimize deflection. Images of each step are shown below including my equation table for global variables used in dimensions.
 
-
 <img width="50%" height="702" alt="cad1" src="https://github.com/user-attachments/assets/6213eb3e-5314-4e83-8a5b-fcd3fbfabcc7" />
 <img width="50%" height="656" alt="cad2" src="https://github.com/user-attachments/assets/52199215-89a0-43a1-9015-f606cd3d08bc" />
 <img width="50%" height="1086" alt="cad3" src="https://github.com/user-attachments/assets/31c62c8c-2f7e-4862-92df-8beba0714da5" />
@@ -45,11 +44,14 @@ I started my design with the flat plate of feature 1, then added circular cuts a
 
 <img width="100%" height="1171" alt="A4drawing" src="https://github.com/user-attachments/assets/939faef3-40db-44bd-944b-ad95de40d2d6" />
 
-
 ## Decide
 
 
 ## Communicate
+
+One of the errors I made with this project was setting my base length to 32mm leaving just 2mm on each side of the motor. I decided to change it to 40mm to allow the motor enough room and to change the thickness of feature 1 so its smaller.
+
+One of the lessons I learned is solving equations symbolically first so that if I need to change any of the values I can easily recalculate. Also a part of that, is using global variables in my CAD model and solving parametrically, to be able to change those values and see as the design updates around them.
 
 This project took me approximately 6 hours.
 
