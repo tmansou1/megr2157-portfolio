@@ -8,7 +8,8 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 
 ## Feature 1
 
-I used 60MPa as the yield strength for PLA from a range of 30-60MPa. To solve for the moment created by force P, I used the dimensions of the motor and used the 12mm long flat part of the shaft as my length, because the rest of the motor will be inside/behind the mount. Rearranging the equations to solve for height(thickness), I got 9.86mm from the deflection equation and 5.19mm from the stress equation. Because we want the safer option when designing, I used the 9.86mm thickness in my design. Shown below are my calculations for both feature 1 and feature 2, because they use the same equations and many of the same variables.
+I used 60MPa as the yield strength for PLA from a range of 30-60MPa. To solve for the moment created by force P, I used the dimensions of the motor and used the 12mm long flat part of the shaft as my length, because the rest of the motor will be inside/behind the mount. Rearranging the equations to solve for height(thickness), I got 9.86mm from the deflection equation and 5.19mm from the stress equation. Because we want the safer option when designing, I used the 9.86mm thickness in my design.
+Shown below are my calculations for both feature 1 and feature 2, because they use the same equations and many of the same variables.
 
 <img width="4283" height="4268" alt="IMG_0760" src="https://github.com/user-attachments/assets/9d753bbc-5635-4abe-8241-1ba2d52a707f" />
 
