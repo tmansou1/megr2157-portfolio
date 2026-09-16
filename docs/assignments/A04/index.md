@@ -29,7 +29,7 @@ FBDs
 <img width="50%" height="1490" alt="IMG_0754" src="https://github.com/user-attachments/assets/7a0d60d3-f4e1-4539-a1c5-74a82743157c" />
 <img width="50%" height="1490" alt="IMG_0754 (1)" src="https://github.com/user-attachments/assets/bf308c30-208c-4533-9e57-ef03f850d07d" />
 
-## CAD
+## CAD Model (Parametric)
 
 I started my design with the flat plate of feature 1, then added circular cuts and holes to fit the motor into place, next I extruded feature 2 and added the holes for the bolts into the side, then finally I added a 1mm fillet on the interior edge to minimize deflection. Images of each step are shown below including my equation table for global variables used in dimensions.
 
