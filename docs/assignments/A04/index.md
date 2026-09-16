@@ -42,7 +42,7 @@ I started my design with the flat plate of feature 1, then added circular cuts a
 
 # Part Drawing (MEGR 2157)
 
-[A4_MotorMount_drawing.pdf](https://github.com/user-attachments/files/32306495/A4_MotorMount_drawing.pdf)
+<img width="50%" height="1171" alt="A4drawing" src="https://github.com/user-attachments/assets/939faef3-40db-44bd-944b-ad95de40d2d6" />
 
 
 ## Decide
