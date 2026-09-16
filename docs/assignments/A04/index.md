@@ -44,9 +44,6 @@ I started my design with the flat plate of feature 1, then added circular cuts a
 
 <img width="100%" height="1171" alt="A4drawing" src="https://github.com/user-attachments/assets/939faef3-40db-44bd-944b-ad95de40d2d6" />
 
-## Decide
-
-
 ## Communicate
 
 One of the errors I made with this project was setting my base length to 32mm leaving just 2mm on each side of the motor. I decided to change it to 40mm to allow the motor enough room and to change the thickness of feature 1 so its smaller.
