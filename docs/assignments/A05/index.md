@@ -1,15 +1,23 @@
 # A5 – Bracket Design
 
 ## Objective
--Conduct stress analysis to determine appropriate dimensions for structural features.\
--Generate free body diagrams (FBDs) to visualize forces and constraints for each feature.\
--Identify and document known and unknown variables, assumptions, and algebraic models for stress calculations.\
--Perform stiffness analysis to establish minimum required dimensions based on deflection constraints.\
--Compare stress and stiffness analyses to ensure structural integrity and compliance with given constraints.\
--Create detailed multiview sketches illustrating dimensions derived from both stress and stiffness analyses.\
+
+-Conduct stress analysis to determine appropriate dimensions for structural features.
+
+-Generate free body diagrams (FBDs) to visualize forces and constraints for each feature.
+
+-Identify and document known and unknown variables, assumptions, and algebraic models for stress calculations.
+
+-Perform stiffness analysis to establish minimum required dimensions based on deflection constraints.
+
+-Compare stress and stiffness analyses to ensure structural integrity and compliance with given constraints.
+
+-Create detailed multiview sketches illustrating dimensions derived from both stress and stiffness analyses.
+
 -Reflect on and document key engineering lessons learned throughout the process.
 
 ## Analyze
+
 In both my stress and stiffness analysis I assumed a few things; aluminum 6061 T6 has a yield stress of 40ksi, a Young's modulus of 10^6, chose a force F of 500lbs, and the thickness of the whole mount to be 1”, which comes from the thickness of the strap plus .25” extra. What's given are the dimensions of the T beam, polyester strap, and a SF of 4.
 
 ## Feature A
