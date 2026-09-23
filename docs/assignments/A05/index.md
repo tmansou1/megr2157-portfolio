@@ -75,6 +75,9 @@ For this part analysis the stress at the smallest area would be right next to th
 
 **Sources**
 
-https://www.modulusmetal.com/aluminum-6061-t6-mechanical-properties/ 
-
+https://www.modulusmetal.com/aluminum-6061-t6-mechanical-properties\
 Machinery’s Handbook, pg.655, 661
+
+This assignment took me about 6 hours.
+
+
