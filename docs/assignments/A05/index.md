@@ -52,6 +52,7 @@ For feature E i’m treating it as a cantilever beam with a distributed load of 
 <img width="50%" height="1256" alt="IMG_0791 (4)" src="https://github.com/user-attachments/assets/900c3feb-198a-4edb-a822-1da21bf5728f" />
 <img width="3513" height="1606" alt="IMG_0797 (2)" src="https://github.com/user-attachments/assets/a0e96b19-8073-49ac-8a48-1cceddaca213" />
 
+For each feature, I used the larger of the two dimensions to prevent failure.
 
 ## Multiview sketches
 
