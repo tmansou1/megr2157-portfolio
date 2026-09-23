@@ -10,7 +10,7 @@ In both my stress and stiffness analysis I assumed a few things;aluminum 6061 T6
 
 For feature A I'm treating it as a cantilever beam with a distributed load of 2F. Shown below are my FBD and both the stress and stiffness calculations. The larger of the two diameters came from the stiffness analysis which was 0.845”.
 
-<img width="1525" height="1147" alt="IMG_0791" src="https://github.com/user-attachments/assets/dd924524-1d43-44e0-aa76-64e85704827a" />
+<img width="50%" height="1147" alt="IMG_0791" src="https://github.com/user-attachments/assets/dd924524-1d43-44e0-aa76-64e85704827a" />
 <img width="4087" height="2611" alt="IMG_0796" src="https://github.com/user-attachments/assets/e0116a84-d4b1-44c7-b3ee-d676cd4466d4" />
 
 
@@ -19,7 +19,7 @@ For feature A I'm treating it as a cantilever beam with a distributed load of 2F
 
 For feature B I'm treating it as an axial load with 2F force downwards. Shown below are my FBD and both the stress and stiffness calculations. The larger of the two h came from the stiffness analysis which was 0.159”.
 
-<img width="932" height="1179" alt="IMG_0791 (1)" src="https://github.com/user-attachments/assets/4e74fc33-728e-4d0d-aa53-3b7178e18c82" />
+<img width="50%" height="1179" alt="IMG_0791 (1)" src="https://github.com/user-attachments/assets/4e74fc33-728e-4d0d-aa53-3b7178e18c82" />
 
 <img width="3849" height="1846" alt="IMG_0796 (1)" src="https://github.com/user-attachments/assets/7e599ed2-0daa-4d60-9f23-a995801a6e5d" />
 
@@ -27,7 +27,7 @@ For feature B I'm treating it as an axial load with 2F force downwards. Shown be
 
 For feature C I'm treating it as a simply supported beam with the same 2F force from feature B in the center. Shown below are my FBD and both the stress and stiffness calculations. The larger of the two h came from the stiffness analysis which was 0.9197”.
 
-<img width="1656" height="1030" alt="IMG_0791 (2)" src="https://github.com/user-attachments/assets/888e20b4-13ea-4e6d-bae6-37bab5292c2e" />
+<img width="50%" height="1030" alt="IMG_0791 (2)" src="https://github.com/user-attachments/assets/888e20b4-13ea-4e6d-bae6-37bab5292c2e" />
 <img width="3648" height="1813" alt="IMG_0797" src="https://github.com/user-attachments/assets/d6e401e8-3907-472d-aec6-abe78c61bcda" />
 
 
@@ -35,7 +35,7 @@ For feature C I'm treating it as a simply supported beam with the same 2F force 
 
 For feature D I'm treating it as an axial load with F downwards. Shown below are my FBD and both the stress and stiffness calculations. The larger of the two h came from the stiffness analysis which was 0.1499”.
 
-<img width="1036" height="1036" alt="IMG_0791 (3)" src="https://github.com/user-attachments/assets/24b2750e-e5a3-4a79-a925-2f13357d297f" />
+<img width="50%" height="1036" alt="IMG_0791 (3)" src="https://github.com/user-attachments/assets/24b2750e-e5a3-4a79-a925-2f13357d297f" />
 <img width="3272" height="1579" alt="IMG_0797 (1)" src="https://github.com/user-attachments/assets/38094469-5a92-49ea-bfd3-ca9561f92d8e" />
 
 
@@ -43,7 +43,7 @@ For feature D I'm treating it as an axial load with F downwards. Shown below are
 
 For feature E i’m treating it as a cantilever beam with a distributed load of F. Shown below are my FBD and both the stress and stiffness calculations. The larger of the two h came from the stress analysis which was 0.387”.
 
-<img width="1323" height="1256" alt="IMG_0791 (4)" src="https://github.com/user-attachments/assets/900c3feb-198a-4edb-a822-1da21bf5728f" />
+<img width="50%" height="1256" alt="IMG_0791 (4)" src="https://github.com/user-attachments/assets/900c3feb-198a-4edb-a822-1da21bf5728f" />
 <img width="3513" height="1606" alt="IMG_0797 (2)" src="https://github.com/user-attachments/assets/a0e96b19-8073-49ac-8a48-1cceddaca213" />
 
 
