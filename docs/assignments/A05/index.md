@@ -10,7 +10,7 @@
 -Reflect on and document key engineering lessons learned throughout the process.
 
 ## Analyze
-In both my stress and stiffness analysis I assumed a few things;aluminum 6061 T6 has a yield stress of 40ksi, a Young's modulus of 10^6, chose a force F of 500lbs, and the thickness of the whole mount to be 1”, which comes from the thickness of the strap plus .25” extra. The dimensions of the T beam and SF of 4 are given.
+In both my stress and stiffness analysis I assumed a few things; aluminum 6061 T6 has a yield stress of 40ksi, a Young's modulus of 10^6, chose a force F of 500lbs, and the thickness of the whole mount to be 1”, which comes from the thickness of the strap plus .25” extra. What's given are the dimensions of the T beam and a SF of 4.
 
 ## Feature A
 
