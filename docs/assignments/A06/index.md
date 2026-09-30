@@ -37,3 +37,5 @@ Here is the drawing for the link part.
 The stiffness equations with max deflection determined most of the dimensions calculated. For example feature C is 3 times larger, using stiffness than stress analysis. All of the equations were left with variable in them, so I could change one and the whole part would update automatically.
 
 One dimension that had a tighter tolerance than other would be the width of the entire bottom due to the exact dimension of the T beam and needing a sliding fit. If I had just set tight tolerances everywhere, it would be too much unecessary cost to manufacture.
+
+-This project took me about 4 hours.
