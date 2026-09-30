@@ -39,3 +39,11 @@ The stiffness equations with max deflection determined most of the dimensions ca
 One dimension that had a tighter tolerance than other would be the width of the entire bottom due to the exact dimension of the T beam and needing a sliding fit. If I had just set tight tolerances everywhere, it would be too much unecessary cost to manufacture.
 
 -This project took me about 4 hours.
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Bracket.SLDPRT" download>Download CAD Bracket file</a>
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Bracket_draw.SLDDRW" download>Download Bracket Drawing file</a>
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Link.SLDPRT" download>Download CAD Link file</a>
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Link_draw.SLDDRW" download>Download Link Drawing file</a>
