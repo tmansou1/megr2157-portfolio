@@ -4,6 +4,8 @@
 
 -Generate a CAD part for the bracket using the dimensions calculated in A5
 
+-Use parametric design for the dimensions
+
 -Create a drawing for the bracket part
 
 ## CAD Bracket
@@ -30,8 +32,7 @@ Here is the drawing for the link part.
 
 
 
-## Communicate
-**Reflections**
+## Reflections
 
 The stiffness equations with max deflection determined most of the dimensions calculated. For example feature C is 3 times larger, using stiffness than stress analysis. All of the equations were left with variable in them, so I could change one and the whole part would update automatically.
 
