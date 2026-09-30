@@ -2,7 +2,7 @@
 
 ## Objective
 
--generate a CAD part for the bracket using the dimensions calculated in A5
+-Generate a CAD part for the bracket using the dimensions calculated in A5
 
 -Create a drawing for the bracket part
 
@@ -16,12 +16,16 @@ Using the equations and dimensions calculated in A5, I parametrically designed t
 
 ## Bracket Drawing
 My drawing shown below includes extra tolerances for the slip fits needed at the T beam.
+<img width="1435" height="1107" alt="A6_Bracketdrw" src="https://github.com/user-attachments/assets/e2de60c1-425c-4628-9b38-03d69525e4b7" />
 
 
 ## MEGR 2157 Link Part
 Here is my CAD for the link and equations used.
 <img width="651" height="1102" alt="A5_link" src="https://github.com/user-attachments/assets/b29c5825-327c-4c9b-abf5-bf586ce6b774" />
 <img width="672" height="173" alt="A6_table2" src="https://github.com/user-attachments/assets/549b6604-9a3c-43d1-9d46-c7a20190c7b9" />
+
+Here is the drawing for the link part.
+<img width="1353" height="1047" alt="A6_linkdrw" src="https://github.com/user-attachments/assets/355c41f5-dac8-4698-8346-3d6724224a6d" />
 
 
 
