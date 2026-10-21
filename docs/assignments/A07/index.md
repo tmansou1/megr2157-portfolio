@@ -195,8 +195,8 @@ My error estimation was below 7% so it did reach convergence, after 2 tests.
 
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A7_Design3.SLDPRT" download>Download CAD Bracket Design #3</a>
 
-<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A4_MotorMount.SLDPRT" download>Download CAD Link Design #1</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A7_LinkDesign.SLDPRT" download>Download CAD Link Design #1</a>
 
-<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A4_MotorMount.SLDPRT" download>Download CAD Link Design #2</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A7_LinkDesign2.SLDPRT" download>Download CAD Link Design #2</a>
 
-<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A4_MotorMount.SLDPRT" download>Download CAD Link Design #2</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A7_LinkDesign3.SLDPRT" download>Download CAD Link Design #3</a>
