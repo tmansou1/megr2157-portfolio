@@ -28,12 +28,11 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 
 1a.
 
-<img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/1b438b0c-5fce-47a0-acab-2de20576c92d" />\
-<img width="50%" height="826" alt="1aMesh" src="https://github.com/user-attachments/assets/c0120e75-04e9-44f2-9bb2-baaee7d74799" />\
+<img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/1b438b0c-5fce-47a0-acab-2de20576c92d" />
+
+<img width="50%" height="826" alt="1aMesh" src="https://github.com/user-attachments/assets/c0120e75-04e9-44f2-9bb2-baaee7d74799" />
 <img width="50%" height="802" alt="1aSF" src="https://github.com/user-attachments/assets/4d636587-0e5a-4f30-bcf4-891a45bf5c50" />
-
 <img width="50%" height="893" alt="1aStress" src="https://github.com/user-attachments/assets/13c80004-01c5-4086-abf8-c673004bd624" />
-
 <img width="50%" height="910" alt="1aDef" src="https://github.com/user-attachments/assets/8083732a-1143-465e-baa0-b0fb42754bf0" />
 
 1b.
