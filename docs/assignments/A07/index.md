@@ -29,7 +29,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 1a.
 
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/1b438b0c-5fce-47a0-acab-2de20576c92d" />
-
 <img width="50%" height="826" alt="1aMesh" src="https://github.com/user-attachments/assets/c0120e75-04e9-44f2-9bb2-baaee7d74799" />
 <img width="50%" height="802" alt="1aSF" src="https://github.com/user-attachments/assets/4d636587-0e5a-4f30-bcf4-891a45bf5c50" />
 <img width="50%" height="893" alt="1aStress" src="https://github.com/user-attachments/assets/13c80004-01c5-4086-abf8-c673004bd624" />
@@ -38,7 +37,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 1b.
 
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/e2c5cc9e-a08d-4cc9-9405-e23451678f46" />
-
 <img width="50%" height="827" alt="1bMesh" src="https://github.com/user-attachments/assets/0331fd4d-776a-4de4-a9dd-e0e16af6524c" />
 <img width="50%" height="816" alt="1bSF" src="https://github.com/user-attachments/assets/dd765776-9f2a-43e1-9d78-4aa6eee7b237" />
 <img width="50%" height="923" alt="1bStress" src="https://github.com/user-attachments/assets/f7559108-8891-490f-b860-93eae748c7b6" />
@@ -47,7 +45,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 1c.
 
 <img width="276" height="130" alt="123MeshSmall" src="https://github.com/user-attachments/assets/64ff508d-0ae2-48f6-95f9-8e750b1987ff" />
-
 <img width="50%" height="1021" alt="1cMesh" src="https://github.com/user-attachments/assets/caccac8c-0cd5-4b95-8c94-5308a4120a20" />
 <img width="50%" height="957" alt="1cSF" src="https://github.com/user-attachments/assets/066a343a-0d6f-42f7-a36a-40ae52317e51" />
 <img width="50%" height="997" alt="1cStress" src="https://github.com/user-attachments/assets/65d2341e-c1c7-4244-a5b3-fff52e8209c4" />
@@ -64,7 +61,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 2a.
 
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/39f8b3c9-4bcd-4400-9746-6eaabf23bb7e" />
-
 <img width="50%" height="970" alt="2aMesh" src="https://github.com/user-attachments/assets/a020df8b-f3ef-48e8-9c52-39ae41d1656f" />
 <img width="50%" height="912" alt="2aSF" src="https://github.com/user-attachments/assets/aa684795-807b-438e-88c1-ac46e504e711" />
 <img width="50%" height="956" alt="2aStress" src="https://github.com/user-attachments/assets/f2a4fb8e-a72c-4e57-aca2-48287fcb074e" />
@@ -73,7 +69,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 2b.
 
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/a4910ad0-c547-4b1f-8f0b-af2a19d0f640" />
-
 <img width="50%" height="913" alt="2bMesh" src="https://github.com/user-attachments/assets/b7cbc1c8-26b2-4666-9ed2-d501d1b8f297" />
 <img width="50%" height="917" alt="2bSF" src="https://github.com/user-attachments/assets/ffc7b96f-d66d-4255-9329-5e56b9981746" />
 <img width="50%" height="943" alt="2bStress" src="https://github.com/user-attachments/assets/ed4c271a-a97d-49e7-8df3-165a81f0a63e" />
@@ -82,7 +77,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 2c.
 
 <img width="276" height="130" alt="123MeshSmall" src="https://github.com/user-attachments/assets/c739778d-7071-4280-8db5-4a2cdf92a973" />
-
 <img width="50%" height="926" alt="2cMesh" src="https://github.com/user-attachments/assets/71e122f0-58a5-4840-babf-b88d1be1cabf" />
 <img width="50%" height="918" alt="2cSF" src="https://github.com/user-attachments/assets/9b5427f8-dde0-4930-be8f-e5fd89bb1e5b" />
 <img width="50%" height="931" alt="2cStress" src="https://github.com/user-attachments/assets/a1b56850-0abb-44ea-b2b3-a2c082500c03" />
@@ -99,7 +93,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 3a.
 
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/6ce6a15a-b9a1-4e81-8f2a-36ec8df6620c" />
-
 <img width="50%" height="937" alt="3aMesh" src="https://github.com/user-attachments/assets/6fdf8d82-30c3-40ce-bd2f-74443cb70adb" />
 <img width="50%" height="900" alt="3aSF" src="https://github.com/user-attachments/assets/2cc97b71-e8f1-4f34-b607-5aca095d3af5" />
 <img width="50%" height="917" alt="3aStress" src="https://github.com/user-attachments/assets/d24301ff-d3e3-4f8e-a893-bb8d466e39bf" />
@@ -108,7 +101,6 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 3b.
 
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/89cd8437-6c35-4cd8-83d5-f54d560bf7fb" />
-
 <img width="50%" height="912" alt="3bMesh" src="https://github.com/user-attachments/assets/3394ad30-0830-45d8-a9da-9751740963f4" />
 <img width="50%" height="903" alt="3bSF" src="https://github.com/user-attachments/assets/338c2d5b-f2bb-4c59-9b49-6fdf25e40c06" />
 <img width="50%" height="938" alt="3bStress" src="https://github.com/user-attachments/assets/08bf3c2e-0e38-46c2-aabb-9ad1702115c4" />
