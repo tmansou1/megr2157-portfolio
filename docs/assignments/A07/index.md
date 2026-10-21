@@ -27,6 +27,7 @@ For each design I added fixed supports on each inside face that would touch the 
 Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
 
 1a.
+
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/1b438b0c-5fce-47a0-acab-2de20576c92d" />
 
 <img width="550" height="826" alt="1aMesh" src="https://github.com/user-attachments/assets/c0120e75-04e9-44f2-9bb2-baaee7d74799" />
@@ -35,6 +36,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 <img width="796" height="910" alt="1aDef" src="https://github.com/user-attachments/assets/8083732a-1143-465e-baa0-b0fb42754bf0" />
 
 1b.
+
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/e2c5cc9e-a08d-4cc9-9405-e23451678f46" />
 
 <img width="546" height="827" alt="1bMesh" src="https://github.com/user-attachments/assets/0331fd4d-776a-4de4-a9dd-e0e16af6524c" />
@@ -43,6 +45,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 <img width="837" height="877" alt="1bDef" src="https://github.com/user-attachments/assets/7e42ea43-a1bf-4512-895f-bbae665f772b" />
 
 1c.
+
 <img width="276" height="130" alt="123MeshSmall" src="https://github.com/user-attachments/assets/64ff508d-0ae2-48f6-95f9-8e750b1987ff" />
 
 <img width="929" height="1021" alt="1cMesh" src="https://github.com/user-attachments/assets/caccac8c-0cd5-4b95-8c94-5308a4120a20" />
@@ -59,6 +62,7 @@ For my second design I shrank the thickness of the upper and lower horizontal be
 Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
 
 2a.
+
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/39f8b3c9-4bcd-4400-9746-6eaabf23bb7e" />
 
 <img width="740" height="970" alt="2aMesh" src="https://github.com/user-attachments/assets/a020df8b-f3ef-48e8-9c52-39ae41d1656f" />
@@ -67,6 +71,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 <img width="916" height="927" alt="2aDef" src="https://github.com/user-attachments/assets/0c481a35-8a1a-4c30-9705-9257159e1105" />
 
 2b.
+
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/a4910ad0-c547-4b1f-8f0b-af2a19d0f640" />
 
 <img width="700" height="913" alt="2bMesh" src="https://github.com/user-attachments/assets/b7cbc1c8-26b2-4666-9ed2-d501d1b8f297" />
@@ -75,6 +80,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 <img width="917" height="946" alt="2bDef" src="https://github.com/user-attachments/assets/a1495ba0-b67c-4753-9ed5-2f93d00f7be3" />
 
 2c.
+
 <img width="276" height="130" alt="123MeshSmall" src="https://github.com/user-attachments/assets/c739778d-7071-4280-8db5-4a2cdf92a973" />
 
 <img width="706" height="926" alt="2cMesh" src="https://github.com/user-attachments/assets/71e122f0-58a5-4840-babf-b88d1be1cabf" />
@@ -91,6 +97,7 @@ For the third design I added holes in the top beams and shrank the bottom beam e
 Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
 
 3a.
+
 <img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/6ce6a15a-b9a1-4e81-8f2a-36ec8df6620c" />
 
 <img width="806" height="937" alt="3aMesh" src="https://github.com/user-attachments/assets/6fdf8d82-30c3-40ce-bd2f-74443cb70adb" />
@@ -99,6 +106,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 <img width="896" height="921" alt="3aDef" src="https://github.com/user-attachments/assets/02ae14c0-e7de-4293-9a73-c9d4207bb677" />
 
 3b.
+
 <img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/89cd8437-6c35-4cd8-83d5-f54d560bf7fb" />
 
 <img width="777" height="912" alt="3bMesh" src="https://github.com/user-attachments/assets/3394ad30-0830-45d8-a9da-9751740963f4" />
