@@ -113,7 +113,80 @@ My error estimation was below 7% so it did reach convergence, after 2 tests.
 
 ## Link FEA (MEGR 2157)
 
+## Link Design #1
+
 Completing the same process for the link, I started with my original design for the first run. 
+
+Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
+
+1a.
+
+<img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/55e2d910-7b30-4c4e-80da-0d970081c133" />
+<img width="50%" height="785" alt="l1aMesh" src="https://github.com/user-attachments/assets/9cb75871-4546-43c4-9dc2-db8c79e23772" />
+<img width="50%" height="857" alt="l1aSF" src="https://github.com/user-attachments/assets/19e8f7eb-86aa-435c-bf91-5d57535fc9a1" />
+<img width="50%" height="941" alt="l1aStress" src="https://github.com/user-attachments/assets/7bfb49e6-045d-409b-9a4e-658f0a7164e7" />
+<img width="50%" height="961" alt="l1aDef" src="https://github.com/user-attachments/assets/2335467a-55ee-4ee2-a13a-3aa5d6f5065d" />
+
+1b.
+
+<img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/3b1543cb-46a4-409f-be1b-0e4f08e82214" />
+<img width="50%" height="755" alt="l1bMesh" src="https://github.com/user-attachments/assets/7a78a84a-0d05-458e-9c4b-382f370b2016" />
+<img width="50%" height="740" alt="l1bSF" src="https://github.com/user-attachments/assets/a4f7c5c6-5898-4720-b414-bf322fefa5f6" />
+<img width="50%" height="781" alt="l1bStress" src="https://github.com/user-attachments/assets/e724fc4f-fcfd-4aec-b62d-2a8924b35d74" />
+<img width="50%" height="792" alt="l1bDef" src="https://github.com/user-attachments/assets/2d5a187b-8737-4d79-ba50-ce883933d41a" />
+
+
+My error estimation was below 7% so it did reach convergence, after 2 tests.
+
+## Link Design #2
+
+For my second design I increased the thickness between the larger hole and the outside edge from 2.5in to 3.5in to make it stronger.
+
+Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
+
+2a.
+
+<img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/7f2d0e37-e731-49e6-95f7-e824454c7109" />
+<img width="50%" height="1017" alt="l2aMesh" src="https://github.com/user-attachments/assets/0f803264-b094-4681-86ee-15d19923b16b" />
+<img width="50%" height="862" alt="l2aSF" src="https://github.com/user-attachments/assets/ec74b740-0fe2-470f-a783-85c6a15c87f7" />
+<img width="50%" height="947" alt="l2aStress" src="https://github.com/user-attachments/assets/eae563b8-a55a-442d-948f-5fd17947b83f" />
+<img width="50%" height="941" alt="l2aDef" src="https://github.com/user-attachments/assets/0812c169-0da8-4632-83fd-f8ef0ad37d28" />
+
+2b.
+
+<img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/f86ac279-669e-484e-ba7e-e5133abdc1ef" />
+<img width="50%" height="866" alt="l2bMesh" src="https://github.com/user-attachments/assets/f7297f2c-a81e-414d-8055-ac7ddf74d253" />
+<img width="50%" height="860" alt="l2bSF" src="https://github.com/user-attachments/assets/cc046d3c-4834-4221-974f-eb4493f9254e" />
+<img width="50%" height="697" alt="l2bStress" src="https://github.com/user-attachments/assets/a933f85f-3597-4d8f-a52c-972c0972dbf4" />
+<img width="50%" height="658" alt="l2bDef" src="https://github.com/user-attachments/assets/718414f9-fb5f-4cf4-b9a7-64478a2ffba8" />
+
+
+My error estimation was below 7% so it did reach convergence, after 2 tests.
+
+## Link Design #3
+
+For my third design I decreased the gap between the two holes to reduce unecessary weight.
+
+Shown below are images of the mesh and each FEA result. Also shown are my handwritten values and calculations for error estimation.
+
+3a.
+
+<img width="277" height="127" alt="123MeshBig" src="https://github.com/user-attachments/assets/ee45e0b8-cd6b-4c73-8a92-0d7a5757057a" />
+<img width="50%" height="870" alt="l3aMesh" src="https://github.com/user-attachments/assets/45cf4d5a-f5f4-42b2-a9e9-f15c621dc86b" />
+<img width="50%" height="863" alt="l3aSF" src="https://github.com/user-attachments/assets/765d5ca4-36ff-4dd6-b0da-5e6ad87ab4b3" />
+<img width="50%" height="945" alt="l3aStress" src="https://github.com/user-attachments/assets/4154b5c7-1116-45af-acf9-67694dc706f2" />
+<img width="50%" height="928" alt="l3aDef" src="https://github.com/user-attachments/assets/c218b69a-3199-47da-b4a2-eae7f963ade6" />
+
+3b.
+
+<img width="276" height="137" alt="123MeshMed" src="https://github.com/user-attachments/assets/c20a9d13-0867-4520-a668-538ded8ceb6a" />
+<img width="50%" height="867" alt="l3bMesh" src="https://github.com/user-attachments/assets/bca647fb-224e-420b-80a1-42969e4ce0bb" />
+<img width="50%" height="861" alt="l3bSF" src="https://github.com/user-attachments/assets/45a5faf5-403c-4706-81c5-65f8d8c82406" />
+<img width="50%" height="917" alt="l3bStress" src="https://github.com/user-attachments/assets/7f4e207e-f374-4867-b784-cff7ce12fe59" />
+<img width="50%" height="940" alt="l3bDef" src="https://github.com/user-attachments/assets/5cf2306d-2d29-417d-af04-2d57ef25eb94" />
+
+
+My error estimation was below 7% so it did reach convergence, after 2 tests.
 
 
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Bracket.SLDPRT" download>Download CAD Bracket Design #1</a>
