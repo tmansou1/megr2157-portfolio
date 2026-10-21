@@ -214,6 +214,7 @@ Shown below are images of the mesh and each FEA result. Also shown are my handwr
 My error estimation was below 7% so it did reach convergence, after 2 tests.
 
 ## Reflections and links
+
 In this assignment I learned how different mesh sizes affect precision and the time it takes to calculate and render.
 
 -This assignment took me about 4 hours to complete.
