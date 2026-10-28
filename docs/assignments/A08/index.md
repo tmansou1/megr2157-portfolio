@@ -67,4 +67,4 @@ I learned how to properly constrain parts in an assembly.
 -This assignment took 8 hours total.
 
 
-
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A6_Bracket.SLDPRT" download>Download CAD Gearbox Assembly zip</a>
