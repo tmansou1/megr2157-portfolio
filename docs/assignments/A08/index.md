@@ -47,6 +47,19 @@ Here is my full gearbox assembly.
 
 Other CAD models like the shafts and premade gears and bearings are available for download in the final assembly at the bottom of this page.
 
+
+## Drawings (MEGR 2157)
+Here are the drawings for each shaft, the chosen journal bearings, the housing (and mirrored), and the full gearbox assembly.
+
+<img width="1437" height="1108" alt="z1" src="https://github.com/user-attachments/assets/3ecf3562-267c-4eab-9fa9-a35d89587caa" />
+<img width="1446" height="1113" alt="z2" src="https://github.com/user-attachments/assets/145ff79d-5ae9-47c6-aeb1-4fa2ce37429b" />
+<img width="1441" height="1112" alt="z3" src="https://github.com/user-attachments/assets/93819b9e-b3d7-4213-8140-526ec4385841" />
+<img width="1440" height="1110" alt="z4" src="https://github.com/user-attachments/assets/2da2b860-61af-4963-8a57-9b3483d2d621" />
+<img width="1437" height="1112" alt="z5" src="https://github.com/user-attachments/assets/1f993d0c-7a99-4074-b591-b79a960fcb44" />
+<img width="1438" height="1112" alt="z6" src="https://github.com/user-attachments/assets/0d5f5eb5-fe52-4d5f-968c-98960964e35d" />
+<img width="1442" height="1116" alt="z7" src="https://github.com/user-attachments/assets/518fa9f2-c65b-48a8-b252-392070d3d8f0" />
+
+
 ## Lessons learned
 I learned how to calculate bearing sizes to match my designs.
 I learned how to properly constrain parts in an assembly.
