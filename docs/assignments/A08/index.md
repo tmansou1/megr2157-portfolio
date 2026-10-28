@@ -14,7 +14,7 @@ Use parametric CAD modeling to generate a final design.
 Document calculations, sketches, and lessons learned.
 
 ## Shafts
-What’s given: 24:9, shaft material 1045 steel with Sy of 11000psi, output torque = 1.25 in-lb, 1100 rpm output, input shaft diameter = .125”, output shaft diameter = .25”, and shaft length = 1”. 
+What’s given: 24:9, shaft material 1045 steel with Sy of 77000psi, output torque = 1.25 in-lb, 1100 rpm output, input shaft diameter = .125”, output shaft diameter = .25”, and shaft length = 1”. 
 
 Using the equations from the machinery’s handbook and slides I determined if the diameter of each shaft is large enough to withstand the force. Shown below are my handwritten equations solved algebraically then numerically.
 
