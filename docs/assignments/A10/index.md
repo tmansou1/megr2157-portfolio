@@ -3,7 +3,7 @@
 ## Objective
 
 ## CAD Model (Taye Mansour)
-The CAD model was made using the dimensions calculated above and from the flange size. The holes in the crosshead need to be larger than the leadscrew and have clearance, because only the flange is supporting the weight. Since the outer diameter of the leadscrew is .5" we decided to use .6" for the hole diameter. The other parts needed for the assembly were downloaded from McMaster-Carr. Using the crosshead and leadscrew lengths, the lengths of the frame was determined to be 1.5ft across and 2ft vertically. When using those filters on a double slotted rail(as shown in figure #1 of the assignment) there were only two options, either 2"x1" or 3"x1.5". Unfortunately the download for the 3x1.5 frame was not working for some reason, so the only option was to use the 2x1 frame(McMaster-Carr part number 47065T107).
+Using A36 steel for material. The CAD model was made using the dimensions calculated above and from the flange size. The holes in the crosshead need to be larger than the leadscrew and have clearance, because only the flange is supporting the weight. Since the outer diameter of the leadscrew is .5" we decided to use .6" for the hole diameter. The other parts needed for the assembly were downloaded from McMaster-Carr. Using the crosshead and leadscrew lengths, the lengths of the frame was determined to be 1.5ft across and 2ft vertically. When using those filters on a double slotted rail(as shown in figure #1 of the assignment) there were only two options, either 2"x1" or 3"x1.5". Unfortunately the download for the 3x1.5 frame was not working for some reason, so the only option was to use the 2x1 frame(McMaster-Carr part number 47065T107).
 
 <img width="1522" height="687" alt="a10_crosshead" src="https://github.com/user-attachments/assets/994ea423-0ed5-465a-880c-9d5af40850fd" />
 <img width="770" height="151" alt="a10_parametric" src="https://github.com/user-attachments/assets/7c0b4d44-dce1-4f64-82ce-b9aa74147eee" />
@@ -40,6 +40,8 @@ The changes made to optimize the design were to increase the thickness from 1.11
 <img width="1436" height="673" alt="a10_Defl2" src="https://github.com/user-attachments/assets/23ddb389-09f2-48da-9a95-8759d07d31ce" />
 **Convergence**
 
+**Notes**
+The locations of each max and min for the second design are nearly identical to the original design. For max stress and min SF they're on the bottom side next to a hole, and for max deflection it's in the center of the beam. The min safety factor for both the original and optimization was above the required of 4.
 
 ## Drawing
 <img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
