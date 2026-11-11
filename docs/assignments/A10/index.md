@@ -6,9 +6,13 @@
 
 **Key Constraints**  
 - No electronics, no software: purely mechanical.
+  
 - Load capacity: 2 kN (with appropriate safety factor in structure and drivetrain).
+  
 - Speed range: 1–50 mm/min (achieved via screw lead selection).
+  
 - Form factor: bench-top footprint favored; manageable overall height; 18 inch leadscrew minimum.
+  
 - Safety Factor: 4
 
 ## Lead screw design (Ana Carolina)
