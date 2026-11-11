@@ -48,7 +48,7 @@
 
 <img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
-## 2) Nut and Flange Design (Ana Carolina)
+## Nut and Flange Design (Ana Carolina)
 
 By applying the following selection criteria to the available nuts and flanges:  
 
@@ -139,6 +139,12 @@ The locations of each max and min for the second design are nearly identical to 
 ## Drawing
 <img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
 
+**Downloads**
 
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHeadn.SLDPRT" download>Download  Crosshead</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/a10_crosshead 2nd Design.SLDPRT" download>Download Optimized Crosshead</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHead.SLDDRW" download>Download Crosshead Drawing</a>
 
+-This assignment took me(Taye Mansour) about 4 hours total
 
