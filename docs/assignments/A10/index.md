@@ -142,8 +142,11 @@ The locations of each max and min for the second design are nearly identical to 
 **Downloads**
 
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
+
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHeadn.SLDPRT" download>Download  Crosshead</a>
+
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/a10_crosshead 2nd Design.SLDPRT" download>Download Optimized Crosshead</a>
+
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHead.SLDDRW" download>Download Crosshead Drawing</a>
 
 -This assignment took me(Taye Mansour) about 4 hours total
