@@ -28,6 +28,8 @@ The FEA was ran at the coarsest, medium, and finest mesh sizes, but convergence 
 <img width="1301" height="632" alt="a10_Defl1" src="https://github.com/user-attachments/assets/adceb56d-7e60-40f6-8268-739e23e1a512" />
 **Convergence calculations (for both)**
 <img width="785" height="220" alt="a10_convergence" src="https://github.com/user-attachments/assets/246cf772-e7c1-4be9-9cac-cbdab69a6237" />
+<img width="3544" height="3399" alt="IMG_0995" src="https://github.com/user-attachments/assets/682b3d43-a1da-42fd-adaf-12cafb9c1a37" />
+
 
 **Optimization**
 The changes made to optimize the design were to increase the thickness from 1.11" to 1.5" to increase strength and add cutouts on both sides to reduce weight. Again the FEA was ran at the coarsest, medium, and finest mesh sizes, but convergence was not achieved so the images below show the finest mesh size.
@@ -39,6 +41,7 @@ The changes made to optimize the design were to increase the thickness from 1.11
 **Deflection**
 <img width="1436" height="673" alt="a10_Defl2" src="https://github.com/user-attachments/assets/23ddb389-09f2-48da-9a95-8759d07d31ce" />
 **Convergence**
+<img width="3430" height="2854" alt="IMG_0996" src="https://github.com/user-attachments/assets/11d4b739-d8c7-472f-a49f-63ba10f4ad3e" />
 
 **Notes**
 The locations of each max and min for the second design are nearly identical to the original design. For max stress and min SF they're on the bottom side next to a hole, and for max deflection it's in the center of the beam. The min safety factor for both the original and optimization was above the required of 4.
