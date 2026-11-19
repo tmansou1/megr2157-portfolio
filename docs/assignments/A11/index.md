@@ -4,8 +4,8 @@
 I had to use WolframAlpha for the final calculation of the outer diameter, as I could not solve it regularly. The calculations only required an outer diameter of 0.512" and a thickness of 0.012". The smallest outer diameter coupler that fits the other specs on McMaster-Carr was 1.25", so that's what I used. 
 <img width="3626" height="2699" alt="IMG_1006" src="https://github.com/user-attachments/assets/07f5f0ca-fb40-4622-9fcf-f7fb704b2737" />
 <img width="1032" height="182" alt="image1" src="https://github.com/user-attachments/assets/250bc831-bd28-49ae-9004-07f286313777" />
-<img width="921" height="440" alt="image2" src="https://github.com/user-attachments/assets/ed4b2a58-9f64-4b9d-a86a-cdc54f6548c9" />
-<img width="178" height="55" alt="image3" src="https://github.com/user-attachments/assets/ceb783e7-b80b-4014-bc1e-55ad126aa903" />
+<img width="178" height="55" alt="image3" src="https://github.com/user-attachments/assets/413e1552-04e3-47f0-9b6d-f368f394990b" />
+<img width="1034" height="436" alt="image4" src="https://github.com/user-attachments/assets/87629a27-b7bd-4a60-b4c7-8e3eab6c3e3d" />
 
 The chosen coupler is part number 6208K565 on McMaster-Carr.
 
