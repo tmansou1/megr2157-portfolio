@@ -36,3 +36,10 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 | #9 | 13.5 | A10 Labor | $35.00 | $472.50 | --- |
 | #10 | - | A11 Labor | $35.00 | $ | --- |
 | --- | --- | --- | Total Cost: | $- | --- |
+
+## lessons learned and time spent
+
+  - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
+  - **Logan:** 
+  - **Taye:** I learned how to use external tools like WolframAlpha to aid my calculating process, tools are meant to be used. This project took me about 4 hours total.
+
