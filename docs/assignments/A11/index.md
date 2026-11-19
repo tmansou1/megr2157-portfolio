@@ -1,4 +1,15 @@
 # A11 – Motor Selection
+## Motor Mount Design (Logan Dreifuss)
+
+<img width="3050" height="2315" alt="1000027518" src="https://github.com/user-attachments/assets/0d5210b7-a8b2-4525-8a50-cccffe21c59b" />
+
+
+## 2157 Assignment - Drawings (Logan Dreifuss)
+
+<img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
+<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/ce11a8f4-7ccb-4db8-b93b-9e9f68fe3273" />
+<img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/c394be77-5146-40e8-9106-3c18153ad39b" />
+<img width="1012" height="787" alt="image" src="https://github.com/user-attachments/assets/800bd3a6-748d-40a9-885d-73c4b74ea512" />
 
 ## Coupler (Taye Mansour)
 I had to use WolframAlpha for the final calculation of the outer diameter, as I could not solve it regularly. The calculations only required an outer diameter of 0.512" and a thickness of 0.012". The smallest outer diameter coupler that fits the other specs on McMaster-Carr was 1.25", so that's what I used. 
@@ -40,6 +51,6 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 ## lessons learned and time spent
 
   - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
-  - **Logan:** 
+  - **Logan:** I learned how bearing stress calculations work and what simplifications you can make to make the calculating process easier. This project took me 4.5 hours.
   - **Taye:** I learned how to use external tools like WolframAlpha to aid my calculating process, tools are meant to be used. This project took me about 4 hours total.
 
