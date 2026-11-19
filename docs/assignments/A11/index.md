@@ -80,6 +80,13 @@ The chosen coupler is part number 6208K565 on McMaster-Carr.
 
 **Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
 
+### Frame assembly (Ana Carolina)
+
+<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
+
+
+**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
 ## Floating bearing (Taye Mansour)
 The floating bearing is where the size of the T bolts and nuts come from. The slot width of the frame is 8.24mm so the chosen bolt is a M8-1.25 with a length of 30mm, enough to pass through the bearing and attach to the slim nut. Each bolt hole is 9mm because it is a normal clearance hole according the machinery's handbook pg.1745. The square base of 3" long came from the width of the frame. We also used both mm and inches because this was a group project and some dimension were already given. The bearing has an RC3 fit class so I made the hole 0.5006+0.0017" and the leadscrew stays at 0.5000".
 
@@ -120,4 +127,6 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
   - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
   - **Logan:** I learned how bearing stress calculations work and what simplifications you can make to make the calculating process easier. This project took me 4.5 hours.
   - **Taye:** I learned how to use external tools like WolframAlpha to aid my calculating process, tools are meant to be used. This project took me about 4 hours total.
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
 
