@@ -128,5 +128,5 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
   - **Logan:** I learned how bearing stress calculations work and what simplifications you can make to make the calculating process easier. This project took me 4.5 hours.
   - **Taye:** I learned how to use external tools like WolframAlpha to aid my calculating process, tools are meant to be used. This project took me about 4 hours total.
 
-<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
+**CAD Links Again:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
 
