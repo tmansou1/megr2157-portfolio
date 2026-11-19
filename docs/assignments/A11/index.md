@@ -12,6 +12,8 @@ The chosen coupler is part number 6208K565 on McMaster-Carr.
 ## Floating bearing (Taye Mansour)
 The floating bearing is where the size of the T bolts and nuts come from. The slot width of the frame is 8.24mm so the chosen bolt is a M8-1.25 with a length of 30mm, enough to pass through the bearing and attach to the slim nut. Each bolt hole is 9mm because it is a normal clearance hole according the machinery's handbook pg.1745. The square base of 3" long came from the width of the frame. We also used both mm and inches because this was a group project and some dimension were already given. The bearing has an RC3 fit class so I made the hole 0.5006+0.0017" and the leadscrew stays at 0.5000".
 
+<img width="3158" height="2641" alt="IMG_1007" src="https://github.com/user-attachments/assets/9544487a-3f62-4c83-aa68-b2494d476cb3" />
+<img width="1048" height="1078" alt="bearing" src="https://github.com/user-attachments/assets/7da3757b-4e4f-4519-b0e1-26ea3af6eb1a" />
 <img width="921" height="440" alt="image2" src="https://github.com/user-attachments/assets/a0aed2e0-7369-45eb-b093-7f6ac4d98373" />
 <img width="696" height="389" alt="image5" src="https://github.com/user-attachments/assets/dfb2f4f8-1bd4-45f4-880a-0eb19d03cc61" />
 
