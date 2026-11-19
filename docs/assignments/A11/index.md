@@ -21,7 +21,7 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 
 ## Tabulating costs (Taye Mansour)
 
-(Not inluding designed parts)
+(Not including designed parts)
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | --- | --- | --- | --- | --- |
