@@ -21,8 +21,6 @@
 <img width="377.5" height="286" alt="Torque speed charch 3A" src="https://github.com/user-attachments/assets/d4ec2557-814f-4814-8017-274885c9c11c" />
 <img width="377.5" height="286" alt="Troque speed charch 7A" src="https://github.com/user-attachments/assets/76320a6e-c0ec-4df0-b8a9-68bf3bc6b9f8" />
 
-need the charchas and important info.
-
 ## Motor Mount Design (Logan Dreifuss)
 
 <img width="3050" height="2315" alt="1000027518" src="https://github.com/user-attachments/assets/0d5210b7-a8b2-4525-8a50-cccffe21c59b" />
