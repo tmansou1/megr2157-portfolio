@@ -107,8 +107,8 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 | #7 | 2 | Motor | $100.92 | $201.84 | [Motor Purchase Link](https://www.mcmaster.com/6627T631/) |
 | #8 | 4 | Bracket | $10.92 | $43.68 | [Bracket Purchase Link](https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Wide-5JRU7?searchQuery=40+4303&searchBar=true&tier=Tier+6&s_e=false&s_c=solr9) |
 | #9 | 13.5 | A10 Labor | $35.00 | $472.50 | --- |
-| #10 | - | A11 Labor | $35.00 | $ | --- |
-| --- | --- | --- | Total Cost: | $- | --- |
+| #10 | 15.5 | A11 Labor | $35.00 | $542.50 | --- |
+| --- | --- | --- | Total Cost: | $2313.69 | --- |
 
 ## 2157 Assignment - Drawings (Logan Dreifuss)
 
